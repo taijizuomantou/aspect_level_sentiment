@@ -1,0 +1,210 @@
+33    1    No    location - 1 - price    
+Po    location - 1 - general    location - 1 is considered one of the best areas of london , but with that salary you can afford it
+379    1    No    location - 1 - transit location    
+Po    location - 1 - safety    i have never had a problem in location - 1 , even waiting for a night bus at 2am in the morning
+470    1    No    location - 1 - safety    
+Po    location - 1 - general    just exercise the same caution as you would do at home location - 1 is half gentrified and upmarket and the other half is full of bars and restaurants v safe
+604    1    No    location - 1 - general    
+Po    location - 1 - price    location - 1 mainly has sizeable houses , most of which have been converted into flats , and the cost of renting or purchasing is favourable compared with most of london because the area is n't regarded as fashionable
+613    1    No    location - 1 - price    
+Ne    location - 1 - safety    you live where you can afford location - 1 has a higher crime rate than many other areas of london , but maxi says do n't walk alone anywhere in the uk that is nonsense i have walked everywhere in the uk
+653    1    No    location - 1 - price    
+Ne    location - 1 - general    renting is a sensible option , especially if your time horizon is only five years location - 1 is a horrible area
+707    1    No    location - 1 - transit location    
+Po    location - 1 - general    i would suggest location - 1 its only 15 minutes away on the train and the north circular is only 15 minute drive down
+760    1    No    location - 1 - general    
+Po    location - 1 - transit location    location - 1 would be a great location
+900    1    No    location - 1 - general    
+Ne    location - 1 - safety    just avoid location - 1 and location - 2 unless you want to just go home and stay at home each evening ( some parts are rough
+979    1    No    location - 1 - transit location    
+Ne    location - 1 - price    location - 1 is no longer cheap as anywhere near a tube station in london is expensive as commuters want to be near them
+1198    1    No    location - 1 - safety    
+Ne    location - 1 - general    location - 1 is not a good area , location - 2 in general can be quite rough
+1301    1    No    location - 1 - price    
+Po    location - 1 - transit location    in terms of value and proximity to central london , i would consider the location - 2 area and other areas of location - 1 that are on the dlr
+1343    1    No    location - 1 - transit location    
+Po    location - 1 - general    i ' d reommend you go location - 1 , rather than location - 2 , because there are so few tube stations in location - 2 london
+1353    1    No    location - 1 - price    
+Po    location - 1 - transit location    the transport links into central london are excellent and a cab back from location - 2 or location - 1 at night is n't that expensive
+1380    1    No    location - 1 - general    
+Po    location - 1 - transit location    location - 1 is a good location ( depending on exactly where though to be honest i meant location - 2 end is n't exactly glamorous
+1420    1    No    location - 1 - general    
+Ne    location - 1 - price    personally , i would steer clear of location - 2 and location - 1 , simply because they ' re the most expensive areas and with no good reason
+1445    1    No    location - 1 - price    
+Ne    location - 1 - safety    i would n't live in location - 1 ( too dangerous - it ' s way above the met average for all types of crime ) or location - 2 - which is both expensive and well above the met average for burglary and robbery
+1455    1    No    location - 1 - transit location    
+Po    location - 1 - general    location - 1 is beautiful and you will be highly privileged to live there you ' ll be fine location - 2 has more restaurants and cafes and has more of an `` urban town `` feel but the three are very close
+1512    1    No    location - 1 - general    
+Po    location - 1 - price    location - 2 or location - 1 are a bit more urban and not as upmarket but definitely very lively and you wont be bored , a little cheaper too
+1628    1    No    location - 1 - general    
+Po    location - 1 - price    location - 2 is ridiculously expensive when it comes to rent so have a look at location - 1
+1810    1    No    location - 1 - safety    
+Ne    location - 1 - price    location - 1 is a bit on the pricey side so a cheaper alternative would be location - 2 which is also a perfectly safe area
+1820    1    No    location - 1 - general    
+Ne    location - 1 - price    location - 1 - bit more older middle class rich area , very nice , not so many pubs and very expensive location - 2 - lovely villagey feel and close to the beautiful hampstea heath , bit further out
+1823    1    No    location - 1 - transit location    
+Ne    location - 1 - price    location - 1 - bit more older middle class rich area , very nice , not so many pubs and very expensive location - 2 - lovely villagey feel and close to the beautiful hampstea heath , bit further out
+1911    1    No    location - 1 - transit location    
+Po    location - 1 - general    location - 2 is a brilliant place to live location - 1 ( northern line on the tube ) is a great location
+1933    1    No    location - 1 - price    
+Ne    location - 1 - general    if you ' ve got the opportunity for cheap or free accommodation there , then go for it location - 1 is not necessarily the most sought-after area of london , it has got a very high south asian population and loads of shops
+1984    1    No    location - 1 - general    
+Ne    location - 1 - price    you ' re right in that location - 2 , location - 1 , etc are very expensive , but most of the nice and safe places will be expensive too
+1986    1    No    location - 1 - safety    
+Ne    location - 1 - price    you ' re right in that location - 2 , location - 1 , etc are very expensive , but most of the nice and safe places will be expensive too
+2120    1    No    location - 1 - general    
+Ne    location - 1 - price    a load of money will buy you a nice house in location - 1 or location - 2
+2136    1    No    location - 1 - general    
+Po    location - 1 - transit location    all our parks in london are beautiful and location - 1 and location - 2 are the best parks ever ; they ' re really big , right in central london
+2190    1    No    location - 1 - safety    
+Po    location - 1 - transit location    location - 1 is great tube/overground/the commons i have lived in location - 2 for 25 years and it ' s now one the most safest places to live
+2495    1    No    location - 1 - transit location    
+Po    location - 1 - general    location - 1 is quite far up north and at the border , so that may be a pain location wise but it is also a pleasant area
+2540    1    No    location - 1 - general    
+Ne    location - 1 - price    i ' ve started thinking about moving to location - 1 even though its expensive
+2636    1    No    location - 1 - general    
+Po    location - 1 - price    if you are poor , you might live in location - 1
+2660    1    No    location - 1 - general    
+Ne    location - 1 - price    location - 1 is nothing special but like all of london it is expensive
+2712    1    No    location - 1 - general    
+Ne    location - 1 - safety    most kids who live there are bad news location - 1 is a rough area and you would not want to bring your daughter up there
+2833    1    No    location - 1 - price    
+Ne    location - 1 - safety    you might just find a bedsit or a `` studio ' ' as they are now called in a grotty part of london like location - 2 or location - 1 for 600 pounds but that will be the bare minimum including bills , and the street you are on and the people in your block of flats will probably be quite skanky or even dangerous
+2853    1    No    location - 1 - price    
+Po    location - 1 - general    location - 1 obviously , unless you enjoy commuting anywhere nice in london is at least 250pw for a 1 bed flat plus bills
+2855    1    No    location - 1 - transit location    
+Po    location - 1 - general    location - 1 obviously , unless you enjoy commuting anywhere nice in london is at least 250pw for a 1 bed flat plus bills
+3180    1    No    location - 1 - general    
+Ne    location - 1 - price    i ca n't recommend location - 1 for affordability
+3230    1    No    location - 1 - safety    
+Ne    location - 1 - general    no go nowhere near it location - 1 is horrible yes it is in fact i was there last weekend you ca n't really pick areas of london that are ` safe '  all the time
+3305    1    No    location - 1 - price    
+Ne    location - 1 - general    location - 1 is a bit shoddy a few beggars
+3380    1    No    location - 1 - general    
+Ne    location - 1 - price    there ' s hardly any affordable area in london , but certainly not location - 1
+3468    1    No    location - 1 - general    
+Ne    location - 1 - safety    have a great time in location - 2 and location - 1 you have to beware of scams , but it seems good
+3500    1    No    location - 1 - general    
+Po    location - 1 - safety    location - 1 , ignore the racists , its perfectly safe
+3587    1    No    location - 1 - transit location    
+Po    location - 1 - general    location - 1 is beautiful but in central london and in an area surrounded by lots of embassies , so has a more international feel to it
+3656    1    No    location - 1 - general    
+Ne    location - 1 - safety    it is true that there are some very rough areas not too far away location - 1 in particular is notorious
+3664    1    No    location - 1 - general    
+Po    location - 1 - price    best thing to do is go to several places you like , location - 1 is relatively cheaper
+3720    1    No    location - 1 - general    
+Po    location - 1 - price    then i would say , go for location - 1 , save some cash
+3837    1    No    location - 1 - price    
+Po    location - 1 - general    please , location - 1 is not the most luxurious place , but it does not have riots every week
+3908    1    No    location - 1 - general    
+Ne    location - 1 - price    a little flat in location - 1 will be very nice , but will cost you a good deal of money
+4064    1    No    location - 1 - general    
+Ne    location - 1 - price    location - 1 is nice but youd need to look around for a decent priced place to live wherever they can afford to
+4136    1    No    location - 1 - general    
+Ne    location - 1 - safety    location - 1 itself is fine during the day but i would make sure you do n't hang around at night as it can be a little scary
+4166    1    No    location - 1 - safety    
+Po    location - 1 - general    location - 1 is ok too who knows where is safe nowdays
+4184    1    No    location - 1 - general    
+Ne    location - 1 - safety    c location - 1 has some nasty shits who live their and would not think twice of sticking you for your phone
+4189    1    No    location - 1 - price    
+Po    location - 1 - general    location - 1 is having lots of money thrown at it right now
+4218    1    No    location - 1 - safety    
+Po    location - 1 - general    i like the suburbs because it has less crime and not as many people ( but still busy enough ) location - 1 which is in the outskirts of london is nice
+4242    1    No    location - 1 - safety    
+Ne    location - 1 - general    location - 1 is a s t hole stay clear unless your a drug dealer or addict i moved from there only 9 months ago and never looked back
+4252    1    No    location - 1 - general    
+Po    location - 1 - transit location    if i had the choice i would live just north of location - 1 which has some very nice areas and also has easy access to location - 2
+4317    1    No    location - 1 - price    
+Po    location - 1 - transit location    location - 1 also has great transport links to the centre of london and the london there ' s not really a class divide in areas of london - you will find the very rich and the very poor living very close together
+4364    1    No    location - 1 - general    
+Po    location - 1 - safety    you will be fine in location - 1 as long as you use your common sense
+4372    1    No    location - 1 - general    
+Ne    location - 1 - transit location    rush hour traffic in location - 1 is awful , id recommend leaving ur house to go to work before 7am
+4542    1    No    location - 1 - safety    
+Ne    location - 1 - general    location - 1 was one of the worst areas i experienced my only thought on it is poor does n't necessarily equate to rough
+4610    1    No    location - 1 - safety    
+Ne    location - 1 - general    pretty safe area too parts of location - 1 are less than lovely , especially around the shopping london , however as you move backwards down station road towards the location - 2 some of it is quite nice , especially around the train station
+4611    1    No    location - 1 - transit location    
+Ne    location - 1 - general    pretty safe area too parts of location - 1 are less than lovely , especially around the shopping london , however as you move backwards down station road towards the location - 2 some of it is quite nice , especially around the train station
+4698    1    No    location - 1 - safety    
+Po    location - 1 - general    i do n't think there ' s any safe place to live in london cause the chaos of drugs , alcohol and illegal aliens with the compliment of the government so they can control the masses with the dna check and the national id proposal etc suton , and location - 1 are great
+4798    1    No    location - 1 - safety    
+Po    location - 1 - general    from what i understand location - 1 is the safest and trendiest area
+4817    1    No    location - 1 - price    
+Po    location - 1 - general    location - 1 which is nearby is also very nice some property expense
+4864    1    No    location - 1 - general    
+Ne    location - 1 - price    you could also try location - 1 , tho its certainly a bit posher-boho
+4906    1    No    location - 1 - safety    
+Po    location - 1 - general    nothing wrong with location - 1 , london is london and you only really get into trouble through your own behaviour
+4945    1    No    location - 1 - price    
+Po    location - 1 - general    location - 1 is now a thriving area and lots of money has been spent n regeneration
+5124    1    No    location - 1 - general    
+Po    location - 1 - price    location - 1 best place fun and hip but affordable
+5167    1    No    location - 1 - transit location    
+Po    location - 1 - general    location - 1 would probably be your best bet as it ' s close to the east end so there are lots of bars and clubs
+5412    1    No    location - 1 - general    
+Po    location - 1 - safety    i live in location - 1 , its very safe but theres not much to do but its clean and pretty
+5504    1    No    location - 1 - general    
+Ne    location - 1 - price    location - 1 is fashionable so it is more expensive than for instance location - 2 north , north west , central , west tend to be more expensive yes
+5724    1    No    location - 1 - general    
+Po    location - 1 - transit location    but if a more central location is important to you i would go with location - 1
+5764    1    No    location - 1 - general    
+Po    location - 1 - safety    oh for gods sake , location - 1 is n't that dangerous or bad
+5779    1    No    location - 1 - transit location    
+Ne    location - 1 - general    most students of all backgrounds live all over the place : location - 1 is a bit grubby , but it ' s a big hub for students and young people because of its proximity to goldsmiths university
+5904    1    No    location - 1 - general    
+Po    location - 1 - price    otherwise outside london , somewhere like location - 1 would probably be a bit cheaper
+6048    1    No    location - 2 - general    
+Ne    location - 2 - safety    just avoid location - 1 and location - 2 unless you want to just go home and stay at home each evening ( some parts are rough
+6112    1    No    location - 2 - general    
+Ne    location - 2 - safety    location - 1 is not a good area , location - 2 in general can be quite rough
+6120    1    No    location - 2 - general    
+Po    location - 2 - transit location    location - 1 is ok , but can be a bit grotty , and getting on to the m1 can be a pain , location - 2 , would be more beneficial , as you have the jubilee line into london , and your only minutes away from junction 4 of the m1 , to get to luton
+6189    1    No    location - 2 - price    
+Po    location - 2 - general    location - 2 is more chilled i think , location - 1 is where the ' rich '  people are etc
+6192    1    No    location - 2 - general    
+Ne    location - 2 - transit location    location - 2 is more of a problem as there are no tube stops unless you are actually looking at location - 1 which is not a great area
+6213    1    No    location - 2 - price    
+Po    location - 2 - transit location    in terms of value and proximity to central london , i would consider the location - 2 area and other areas of location - 1 that are on the dlr
+6241    1    No    location - 2 - price    
+Po    location - 2 - general    well , you could try anything in location - 2 area , close to location - 1 might be a bit too expensive
+6257    1    No    location - 2 - price    
+Po    location - 2 - transit location    the transport links into central london are excellent and a cab back from location - 2 or location - 1 at night is n't that expensive
+6316    1    No    location - 2 - general    
+Po    location - 2 - transit location    you ' ll want to stay somewhere fairly central , so try areas around location - 1 / location - 2
+6320    1    No    location - 2 - general    
+Ne    location - 2 - price    personally , i would steer clear of location - 2 and location - 1 , simply because they ' re the most expensive areas and with no good reason
+6381    1    No    location - 2 - price    
+Po    location - 2 - general    location - 1 is a posh place but location - 2 is nice also
+6408    1    No    location - 2 - general    
+Po    location - 2 - price    location - 2 or location - 1 are a bit more urban and not as upmarket but definitely very lively and you wont be bored , a little cheaper too
+6516    1    No    location - 2 - general    
+Ne    location - 2 - price    location - 2 is ridiculously expensive when it comes to rent so have a look at location - 1
+6561    1    No    location - 2 - price    
+Po    location - 2 - general    location - 2 is top , although location - 1 is the most expensive
+6593    1    No    location - 2 - price    
+Po    location - 2 - general    location - 1 is ok a little built up now , but very expensive location - 2 is brilliant
+6611    1    No    location - 2 - transit location    
+Po    location - 2 - price    i always consider location - 2 to be great value for money - cheap rents in location - 1 , decent public transport and good local amenities
+6688    1    No    location - 2 - general    
+Ne    location - 2 - transit location    location - 1 - bit more older middle class rich area , very nice , not so many pubs and very expensive location - 2 - lovely villagey feel and close to the beautiful hampstea heath , bit further out
+6689    1    No    location - 2 - price    
+Ne    location - 2 - transit location    location - 1 - bit more older middle class rich area , very nice , not so many pubs and very expensive location - 2 - lovely villagey feel and close to the beautiful hampstea heath , bit further out
+6840    1    No    location - 2 - general    
+Ne    location - 2 - price    you ' re right in that location - 2 , location - 1 , etc are very expensive , but most of the nice and safe places will be expensive too
+6842    1    No    location - 2 - safety    
+Ne    location - 2 - price    you ' re right in that location - 2 , location - 1 , etc are very expensive , but most of the nice and safe places will be expensive too
+6852    1    No    location - 2 - general    
+Po    location - 2 - price    otherwise location - 1 has loads of parks and is calm but generally quite expensive - location - 2 is probably a good place to start and does have some cheaper places
+6964    1    No    location - 2 - general    
+Ne    location - 2 - price    a load of money will buy you a nice house in location - 1 or location - 2
+6980    1    No    location - 2 - general    
+Po    location - 2 - transit location    all our parks in london are beautiful and location - 1 and location - 2 are the best parks ever ; they ' re really big , right in central london
+7004    1    No    location - 2 - general    
+Po    location - 2 - safety    even in location - 1 there are safe places to bring up children , such as location - 2 which is very friendly
+7031    1    No    location - 2 - transit location    
+Po    location - 2 - safety    location - 1 is great tube/overground/the commons i have lived in location - 2 for 25 years and it ' s now one the most safest places to live
+7121    1    No    location - 2 - price    
+Ne    location - 2 - safety    you might just find a bedsit or a `` studio ' ' as they are now called in a grotty part of london like location - 2 or location - 1 for 600 pounds but that will be the bare minimum including bills , and the street you are on and the people in your block of flats will probably be quite skanky or even dangerous
+7204    1    No    location - 2 - general    
+Ne    location - 2 - safety    have a great time in location - 2 and location - 1 you have to beware of scams , but it seems good

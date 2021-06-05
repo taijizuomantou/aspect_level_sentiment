@@ -1,0 +1,13 @@
+--task_name semeval_NLI_M \
+--data_dir data/semeval2014/bert-pair/ \
+--vocab_file uncased_L-12_H-768_A-12/vocab.txt \
+--bert_config_file uncased_L-12_H-768_A-12/bert_config.json \
+--init_checkpoint uncased_L-12_H-768_A-12/pytorch_model.bin \
+--eval_test \
+--do_lower_case \
+--max_seq_length 128 \
+--train_batch_size 16 \
+--learning_rate 2e-5 \
+--num_train_epochs 6.0 \
+--output_dir results/semeval2014/NLI_M \
+--seed 42
